@@ -1,1 +1,2 @@
-dist: api-platform/2.5.4
+dist: api-platform
+version: 2.5.4
