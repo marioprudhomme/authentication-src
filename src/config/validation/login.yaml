@@ -1,0 +1,6 @@
+Messenger\Message\Command\Login:
+  properties:
+    username:
+      - NotBlank: ~
+    password:
+      - NotBlank: ~

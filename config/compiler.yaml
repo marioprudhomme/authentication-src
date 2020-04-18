@@ -1,0 +1,8 @@
+compiler:
+  dist:
+    name: basic
+    version: 0.1
+
+  requirements:
+    - symfony
+    - messenger

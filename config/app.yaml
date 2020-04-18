@@ -1,0 +1,5 @@
+app:
+  title: Authentication
+  description: ~
+  slug: authentication
+  version: 0.1

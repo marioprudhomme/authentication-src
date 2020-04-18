@@ -1,0 +1,6 @@
+Messenger\Message\Command\Login:
+  attributes:
+    username:
+      groups: [output, input]
+    password:
+      groups: [input]

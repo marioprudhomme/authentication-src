@@ -1,0 +1,11 @@
+Messenger\Message\Command\Login:
+  attributes:
+    messenger: true
+    normalization_context:
+      groups: [output]
+    denormalization_context:
+      groups: [input]
+  collectionOperations:
+    post: ~
+  itemOperations:
+    get: ~
