@@ -1,4 +1,5 @@
 compiler:
+  version: 0.1
   dist:
     name: basic
     version: 0.1
