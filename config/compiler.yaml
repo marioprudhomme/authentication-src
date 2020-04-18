@@ -7,3 +7,4 @@ compiler:
   requirements:
     - dependency-injection
     - symfony-messenger
+    - api-platform
